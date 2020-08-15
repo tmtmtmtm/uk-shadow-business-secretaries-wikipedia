@@ -1,0 +1,502 @@
+[
+  {
+    "item": {
+      "value": "Q694676",
+      "label": "Pat McFadden"
+    },
+    "statement": "Q694676$879AAB48-8A66-438F-AC0C-CF54DE37E76B"
+  },
+  {
+    "item": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replacedBy": {
+      "value": "Q332691",
+      "label": "John Biffen"
+    },
+    "start": {
+      "value": "1974-02-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1976-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332314$F67D3308-864D-4AB2-BDBF-7E8DD52F8D2F"
+  },
+  {
+    "item": {
+      "value": "Q332691",
+      "label": "John Biffen"
+    },
+    "replaces": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replacedBy": {
+      "value": "Q334327",
+      "label": "Eric Varley"
+    },
+    "start": {
+      "value": "1976-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332691$5C93F758-B635-498B-8D1D-82BF3DD7861D"
+  },
+  {
+    "item": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "replaces": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "replacedBy": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "start": {
+      "value": "1982-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1617771$2F2D2274-EDC9-4895-8F4F-536A75A0DDCB"
+  },
+  {
+    "item": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "start": {
+      "value": "1984-10-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332377$FBE7E5BD-11E9-47D5-A865-4454AF09991A"
+  },
+  {
+    "item": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replaces": {
+      "value": "Q332377",
+      "label": "John Smith"
+    },
+    "replacedBy": {
+      "value": "Q10648",
+      "label": "Gordon Brown"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4980126$18A4E074-49E5-453D-A92C-C6689FA75FA0"
+  },
+  {
+    "item": {
+      "value": "Q334325",
+      "label": "Austin Mitchell"
+    },
+    "start": {
+      "value": "1988-07-01T00:00:00Z",
+      "precision": "10"
+    },
+    "end": {
+      "value": "1989-07-01T00:00:00Z",
+      "precision": "10"
+    },
+    "statement": "Q334325$364A593F-6062-4842-9028-FA7CAB371532"
+  },
+  {
+    "item": {
+      "value": "Q10648",
+      "label": "Gordon Brown"
+    },
+    "replaces": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replacedBy": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q10648$26D74F5C-3C6C-49EE-98FA-20EEB6681558"
+  },
+  {
+    "item": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q311214$36B2BA97-7FD6-461C-9E3C-BB71BE10704D"
+  },
+  {
+    "item": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replaces": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "replacedBy": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336214$9D387799-BBF9-4710-A1D0-83EAED1C7E31"
+  },
+  {
+    "item": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "replaces": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replacedBy": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "start": {
+      "value": "1995-10-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q232639$50C2927D-3975-4ADF-8575-F5FDA70BD897"
+  },
+  {
+    "item": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "replaces": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replacedBy": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333846$C0F6335C-C5E7-46CD-8BF6-37A251118877"
+  },
+  {
+    "item": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replaces": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "replacedBy": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q532347$45158929-3DDF-4BDD-859F-F0B6B349A452"
+  },
+  {
+    "item": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "replaces": {
+      "value": "Q532347",
+      "label": "Angela Browning"
+    },
+    "replacedBy": {
+      "value": "Q264684",
+      "label": "John Whittingdale"
+    },
+    "start": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333039$39712065-C68A-4D6B-AF8C-9B008E30F00B"
+  },
+  {
+    "item": {
+      "value": "Q264684",
+      "label": "John Whittingdale"
+    },
+    "replaces": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "replacedBy": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264684$17BE1905-2B33-47C3-8027-BBC16A9633AB"
+  },
+  {
+    "item": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "replaces": {
+      "value": "Q264684",
+      "label": "John Whittingdale"
+    },
+    "replacedBy": {
+      "value": "Q259736",
+      "label": "James Arbuthnot"
+    },
+    "start": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259961$AD01DBD3-8569-4729-A229-4AC06F78A721"
+  },
+  {
+    "item": {
+      "value": "Q576770",
+      "label": "Stephen O'Brien"
+    },
+    "replaces": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "replacedBy": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q576770$FED1BDAA-FD2C-4438-8290-2B32D89E57F6"
+  },
+  {
+    "item": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replaces": {
+      "value": "Q259736",
+      "label": "James Arbuthnot"
+    },
+    "replacedBy": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "start": {
+      "value": "2005-05-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266064$B962AC54-84C4-49E9-B1E2-93C6520AD31C"
+  },
+  {
+    "item": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replaces": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "replacedBy": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "start": {
+      "value": "2005-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302417$CEF40E35-B58E-4FAB-820B-3EC823C67D28"
+  },
+  {
+    "item": {
+      "value": "Q266064",
+      "label": "David Willetts"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266064$ED5F2AA1-3B72-4A88-A8FE-0F4C795A4477"
+  },
+  {
+    "item": {
+      "value": "Q271889",
+      "label": "Kenneth Clarke"
+    },
+    "replaces": {
+      "value": "Q302417",
+      "label": "Alan Duncan"
+    },
+    "replacedBy": {
+      "value": "Q310046",
+      "label": "Peter Mandelson"
+    },
+    "start": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q271889$61318B56-3A5A-4510-8566-5BA24DD570CA"
+  },
+  {
+    "item": {
+      "value": "Q300069",
+      "label": "John Denham"
+    },
+    "replaces": {
+      "value": "Q694676",
+      "label": "Pat McFadden"
+    },
+    "replacedBy": {
+      "value": "Q267648",
+      "label": "Chuka Umunna"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300069$65E3380F-FC8D-4BA5-A83E-EFE379BEE34A"
+  },
+  {
+    "item": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replaces": {
+      "value": "Q267648",
+      "label": "Chuka Umunna"
+    },
+    "replacedBy": {
+      "value": "Q272234",
+      "label": "Jon Trickett"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302763$670f6baf-4a5b-0525-4698-c097cfda490d"
+  },
+  {
+    "item": {
+      "value": "Q272234",
+      "label": "Jon Trickett"
+    },
+    "replaces": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replacedBy": {
+      "value": "Q20127903",
+      "label": "Clive Lewis"
+    },
+    "start": {
+      "value": "2016-07-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272234$CA9174E0-7BBA-45D0-BBC6-7A57377CDCA9"
+  }
+]
